@@ -1,9 +1,12 @@
-// Comment
+// Main
 
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main()
 {
-    cout << "This is the Main! Look at Branches for the Subprojects!" << endl;
+        cout << "Main! Check the Branches" << endl;
+    return 0;
+
 }
