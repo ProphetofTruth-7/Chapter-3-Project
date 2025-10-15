@@ -18,7 +18,7 @@ int main()
     cin >> answer;
     cin.get();
     if (answer == (random1 + random2)) {
-        cout << "Correct!" << endl;
+        cout << "Right!" << endl;
     } else {
         cout << "Incorrect! The answer is actually " << random1 + random2 << endl;
     }
